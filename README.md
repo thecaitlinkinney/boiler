@@ -1,4 +1,4 @@
-# Paystone
+# Boilerplate MERN app
 
 
 To run build...
